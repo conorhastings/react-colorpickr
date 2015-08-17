@@ -331,8 +331,8 @@
     position:relative;
     width:10px;
     height:10px;
-    top:-5px;
-    left:-5px;
+    top:-10px;
+    left:-10px;
     }
 
 .colorpickr .gradient.rgb {
